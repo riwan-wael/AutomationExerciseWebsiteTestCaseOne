@@ -1,0 +1,19 @@
+{
+  "name": "Riwan",
+  "email" :"rriewan@tss.com",
+    "password": "123456",
+    "day": "18",
+    "month": "December",
+    "year": "2002",
+  "firstName": "Cairo",
+  "lastName": "New Cairo",
+  "company": "Giza Systems",
+  "address1": "Tgmo3",
+  "address2": "Cairo",
+  "country": "United States",
+  "state": "Egypt",
+  "city": "Giza",
+  "zipCode": "1234",
+  "mobileNumber": "01167459023"
+
+}
