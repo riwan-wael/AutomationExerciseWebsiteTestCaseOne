@@ -3,9 +3,10 @@ name: E2E Tests
 on:
   workflow_dispatch:
   schedule:
-      - cron: '35 13 * * *' # Runs at 1:02 PM daily (13:20 in 24-hour format)
+      - cron: '45 13 * * *' 
   pull_request:
-      branches: [ main ]
+     branches:
+      - main
 
 jobs:
   windows-edge:
