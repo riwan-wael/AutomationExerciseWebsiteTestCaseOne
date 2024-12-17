@@ -3,7 +3,7 @@ name: E2E Tests
 on:
   workflow_dispatch:
   schedule:
-      - cron: '8 13 * * *' # Runs at 1:02 PM daily (13:08 in 24-hour format)
+      - cron: '23 13 * * *' # Runs at 1:02 PM daily (13:08 in 24-hour format)
   pull_request:
       branches: [ main ]
 
